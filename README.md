@@ -1,4 +1,6 @@
 # Resent client, 4.0 version, updated and ready for use!
 Just fork it, customize it, and deploy it to Github pages! Simple and easy!
 # Guide on customization
-//<title>you put the tab title here! For now, it's just "Resent".</title>//
+In index.html, you'll find something like this: <title>resent</title>
+You can replace "resent" with any title you want your tab to say!
+Add a favicon to make the tab have a small icon!
